@@ -1,6 +1,8 @@
 # Brain Tumor Classification
 Classification of Brain Tumors using Convolutional Neural Networks
 
+![](dataset/figshare_dataset/test/Glioma/I1.png)
+
 ## Reference
 
 More information about this work is given in:
